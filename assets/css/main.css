@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+#about p {
+    text-align: left;
+}
+
 /* Basic */
 
 	html {
@@ -88,7 +92,7 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #FFFFFF;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -107,12 +111,12 @@ input, select, textarea {
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: #FFFFFF;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: #FFFFFF;
 		line-height: 1.5em;
 	}
 
@@ -131,7 +135,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: #FFFFFF;
 		}
 
 			h2.alt strong {
@@ -2247,19 +2251,19 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/background.jpg");
 			}
 
 			#main > section.two {
-				background-color: #142828;
+				background-color: #263A29;
 			}
 
 			#main > section.three {
-				background-color: #212a29;
+				background-color: #023020;
 			}
 
 			#main > section.four {
-				background-color: #142828;
+				background-color: #263A29;
 ;
 			}
 
